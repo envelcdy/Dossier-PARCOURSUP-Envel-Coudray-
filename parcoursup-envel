@@ -1,0 +1,54 @@
+<DOCTYPE html>
+<html> 
+     <head>
+          <meta charset="UTF-8" />
+          <title> Site n°1 envel coudray</title>
+     </head>
+    <body>
+
+
+     <h1> Bienvenue sur mon premier site internet ! </h1> 
+
+          <h2> Je m'appelle <em> Envel Coudray </em>, j'ai 18 ans et je suis actuellement en première année de Technique de Commercialisation à l'Institut Universitaire de l'IUT de Laval. </h2>
+
+
+          <p> Je vous présente ici mon premier site internet que je code <strong>tout seul</strong> sur le logiciel <mark>"Sublime Text"</mark>. </br>(Je pratique le codage en suivant une formation en ligne). <br /> D'ailleur voici un lien pour accéder à mes autres créations ! 
+
+          <p> <a href="page 2 premier site.html"> <strong>Page 2</strong> </a> <br /> (test de lien vers une autre page du site)</p>
+
+          <a href="https://docs.google.com/document/d/1kVbXumXJZG14CAB43PGq237IWBIKfc5s3DHCMYMgKCs/edit?usp=sharing" title="plus qu'un clique !" target="_blank"> <strong> mes autres créations </strong> </a> </p>
+
+
+          <p> Je vais essayer au mieux sur cette page de me présenter en utilisant au mieux le language informatique. </p>
+
+
+     
+         <p> J'ai 3 frères et 1 soeur, je suis donc <strong>triplé</strong> et ai un grand frère et une grande soeur qui eux sont jumeaux et ont 21 ans. </p> 
+
+
+         <p> Je me suis rendue compte lors de mes études supérieurs en Technique de Commercialisation que le côté "vente" ne me correspondait pas vraiment mais que au contraire, j'ai adoré les enseignements de communication ! </p> 
+
+                 <p> 
+                       Je dirais que je suis :
+
+                           <ul> 
+                                   <li>Curieux
+                                   <li>Motivé
+                                   <li>Intéressé 
+                                   <li>Ambitieux
+                           </ul>           
+                </p>
+
+          
+          <p> Contacte : <br /> E-mail : <a href="mailto: envel.coudray]gmail.com" > Envoyer-moi un e-mail !</a> </p>
+
+     </body>
+</html>
+
+
+
+
+<p> 
+               voici une image : <br /> 
+               <img src="" alt="image" /> 
+          </p> 
